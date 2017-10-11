@@ -4,7 +4,7 @@ layout: default
 
 ## Resources
 
-### Useful resources:
+### Useful resources
 
 COURSE MATERIALS: How to Use Git and GitHub <br />
 https://www.udacity.com/wiki/ud775
