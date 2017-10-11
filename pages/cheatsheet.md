@@ -4,26 +4,26 @@ layout: default
 
 ## Cheatsheet
 
-### Git BASH
+### Git Bash shell: some useful commands
 
 $ git version <br />
-$ pwd &nbsp;&nbsp;&nbsp;&nbsp; # print working directory: shows what directory you are in <br />
-$ ls -al &nbsp;&nbsp;&nbsp;&nbsp; # list statistics -all -long : list the files in this directory <br />
-$ cd ~ &nbsp;&nbsp;&nbsp;&nbsp; # goto home directory <br />
-$ pwd &nbsp;&nbsp;&nbsp;&nbsp; # /c/Users/nsbe <br />
-$ cd .. &nbsp;&nbsp;&nbsp;&nbsp; # go up on the tree directory <br />
+$ pwd <br />
+$ ls -alhF <br />
+$ cd ~ <br />
+$ pwd &emsp;&emsp;&emsp;&emsp;&emsp; # /c/Users/nsbe<br />
+$ cd .. <br />
 
-$ **_cd ~_** &nbsp;&nbsp;&nbsp;&nbsp; # change directories to your home directory <br />
-$ **mkdir version-control** &nbsp;&nbsp;&nbsp;&nbsp; # make version-control directory <br />
-$ _cd version-control_ &nbsp;&nbsp;&nbsp;&nbsp; # go to version-control directory <br />
-$ `mkdir reflections` &nbsp;&nbsp;&nbsp;&nbsp; # create reflections directory <br />
-$ `cd reflections` &emsp;&emsp;&emsp; # go to reflections directory <br />
-$ notepad lesson_1_reflections.txt &nbsp;&nbsp;&nbsp;&nbsp; # launch notepad and open lesson_1_reflections.txt <br />
-&nbsp;&nbsp;&nbsp;&nbsp; # you can replace notepad by e.g. subl (sublime) <br />
-$ pwd &nbsp;&nbsp;&nbsp;&nbsp; # /c/Users/nsbe/version-control/reflections <br />
-$ git help diff &nbsp;&nbsp;&nbsp;&nbsp; # show help for the command diff <br />
-&nbsp;&nbsp;&nbsp;&nbsp; C:\Program Files\Git\mingw64\share\doc\git-doc\git-diff.html <br />
-$ diff -u game_old.js game_new.js	&nbsp;&nbsp;&nbsp;&nbsp; # show differences between these 2 files
+$ cd ~ <br />
+$ mkdir version-control <br />
+$ cd version-control <br />
+$ mkdir reflections <br />
+$ cd reflections <br />
+$ notepad lesson_1_reflections.txt <br />
+$ subl lesson_1_reflections.txt <br />
+$ pwd &emsp;&emsp;&emsp;&emsp;&emsp; # /c/Users/nsbe/version-control/reflections <br />
+$ git help diff <br />
+C:\Program Files\Git\mingw64\share\doc\git-doc\git-diff.html <br />
+$ diff -u game_old.js game_new.js	
 
 Definitions:
 - A repository is a group with the multiple files that are saved in each commit
@@ -32,12 +32,12 @@ Definitions:
 
 $ cd ~ <br />
 $ cd version-control <br />
-$ pwd &nbsp;&nbsp;&nbsp;&nbsp; # /c/Users/nsbe/version-control <br />
+$ pwd &emsp;&emsp;&emsp;&emsp;&emsp; # /c/Users/nsbe/version-control <br />
 $ git clone https://github.com/udacity/asteroids.git <br />
 $ cd asteroids <br />
-$ pwd &nbsp;&nbsp;&nbsp;&nbsp; # /c/Users/nsbe/version-control/asteroids <br />
+$ pwd &emsp;&emsp;&emsp;&emsp;&emsp; # /c/Users/nsbe/version-control/asteroids <br />
 $ git log --stat <br />
-$ git config --global color.ui auto &nbsp;&nbsp;&nbsp;&nbsp; # to get colored diff output: maybe not necessary <br />
+$ git config --global color.ui auto &emsp;&emsp;&emsp;&emsp;&emsp; # to get colored diff output, maybe not necessary <br />
 $ git diff   ...id_commit/filename...   ...id_commit/filename... <br />
 
 $ git checkout b0678b161fcf74467ed3a63110557e3d6229cfa6 <br />
