@@ -45,7 +45,7 @@ $ git checkout 3884eab839af1e82c44267484cf2945a766081f3
 
 $ git clone https://github.com/git/git
 
-			https://github.com/git/git.git
+https://github.com/git/git.git
 
 <br />
 
