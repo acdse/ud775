@@ -14,8 +14,8 @@ Or even better, fork the GitHub [repository for this project][repository], make 
 Your feedback is most appreciated.
 
 [acdse]: https://github.com/acdse
-[repository]: https://github.com/acdse/Udacity-ud775
-[issue]: https://github.com/acdse/Udacity-ud775/issues
+[repository]: https://github.com/acdse/ud775
+[issue]: https://github.com/acdse/ud775/issues
 
 ### These are the contents:
 
