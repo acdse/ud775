@@ -13,11 +13,11 @@ $ cd ~ &nbsp;&nbsp;&nbsp;&nbsp; # goto home directory <br />
 $ pwd &nbsp;&nbsp;&nbsp;&nbsp; # /c/Users/nsbe <br />
 $ cd .. &nbsp;&nbsp;&nbsp;&nbsp; # go up on the tree directory <br />
 
-$ cd ~ &nbsp;&nbsp;&nbsp;&nbsp; # change directories to your home directory <br />
-$ mkdir version-control &nbsp;&nbsp;&nbsp;&nbsp; # make version-control directory <br />
-$ cd version-control &nbsp;&nbsp;&nbsp;&nbsp; # go to version-control directory <br />
-$ mkdir reflections &nbsp;&nbsp;&nbsp;&nbsp; # create reflections directory <br />
-$ cd reflections &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # go to reflections directory <br />
+$ **_cd ~_** &nbsp;&nbsp;&nbsp;&nbsp; # change directories to your home directory <br />
+$ **mkdir version-control** &nbsp;&nbsp;&nbsp;&nbsp; # make version-control directory <br />
+$ _cd version-control_ &nbsp;&nbsp;&nbsp;&nbsp; # go to version-control directory <br />
+$ `mkdir reflections` &nbsp;&nbsp;&nbsp;&nbsp; # create reflections directory <br />
+$ `cd reflections` &emsp;&emsp;&emsp; # go to reflections directory <br />
 $ notepad lesson_1_reflections.txt &nbsp;&nbsp;&nbsp;&nbsp; # launch notepad and open lesson_1_reflections.txt <br />
 &nbsp;&nbsp;&nbsp;&nbsp; # you can replace notepad by e.g. subl (sublime) <br />
 $ pwd &nbsp;&nbsp;&nbsp;&nbsp; # /c/Users/nsbe/version-control/reflections <br />
