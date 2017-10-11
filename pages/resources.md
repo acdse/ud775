@@ -38,4 +38,6 @@ http://gitimmersion.com
 	Instructional videos made by Git
 https://git-scm.com/videos/
 
+<br />
+
 [Homepage](../)
