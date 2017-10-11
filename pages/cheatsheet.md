@@ -4,7 +4,7 @@ layout: default
 
 ## Cheatsheet
 
-### Git Bash shell: some useful commands
+### All Git Bash shell commands used in this course 
 
 $ git version <br />
 $ pwd <br />
