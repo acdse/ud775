@@ -4,7 +4,7 @@ layout: default
 
 ## Resources
 
-#### Useful resources:
+### Useful resources:
 
 COURSE MATERIALS: How to Use Git and GitHub <br />
 https://www.udacity.com/wiki/ud775
@@ -21,7 +21,7 @@ http://www.dougmcinnes.com/html-5-asteroids
 COURSE MATERIALS: command-line-instructions <br />
 https://www.udacity.com/wiki/ud775/command-line-instructions
 
-#### The following resources may also be helpful in learning more about Git
+### The following resources may also be helpful in learning more about Git
 
 A cheat sheet of common Git commands <br />
 https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
