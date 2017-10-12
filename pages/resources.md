@@ -4,14 +4,13 @@ layout: default
 
 ## Resources
 
-### Useful resources
+### Course resources
 ---
-
-COURSE MATERIALS: How to Use Git and GitHub <br />
+COURSE URL: How to Use Git and GitHub <br />
 https://www.udacity.com/wiki/ud775
 
-UDACITY COURSE: Linux Command Line Basics <br />
-https://www.udacity.com/wiki/ud595
+COURSE MATERIALS: command-line-instructions <br />
+https://www.udacity.com/wiki/ud775/command-line-instructions
 
 HOW TO READ MAN PAGES <br />
 http://www.cs.mcgill.ca/~guide/help/man.html
@@ -19,10 +18,10 @@ http://www.cs.mcgill.ca/~guide/help/man.html
 ASTEROIDS GAME <br />
 http://www.dougmcinnes.com/html-5-asteroids
 
-COURSE MATERIALS: command-line-instructions <br />
-https://www.udacity.com/wiki/ud775/command-line-instructions
+ANOTHER COURSE: Linux Command Line Basics <br />
+https://www.udacity.com/wiki/ud595
 
-### The following resources may also be helpful in learning more about Git
+### Git resources
 ---
 
 A cheat sheet of common Git commands <br />
@@ -37,7 +36,7 @@ http://learngitbranching.js.org
 A Git tutorial where you enter commands on your own computer <br />
 http://gitimmersion.com
 
-Instructional videos made by Git <br />
+Instructional videos made by the Git team <br />
 https://git-scm.com/videos/
 
 <br />
